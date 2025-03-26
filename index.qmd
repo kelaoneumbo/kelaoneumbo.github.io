@@ -1,0 +1,25 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/IMG_7859.jpg"
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:kxn277@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# About Me
+I am a biomedical researcher with experience in healthcare data analysis, metabolomics, and laboratory instrumentation. My work spans both computational and wet-lab methodologies, including managing large clinical datasets, optimizing experimental protocols, and ensuring the integrity of biospecimens for research.
+
+Currently, I lead bioprocessing and biobanking efforts in the Hematopoietic Biorepository & Cellular Therapy Core, overseeing the management of biospecimen databases and ensuring regulatory compliance. This role has strengthened my expertise in translational research, particularly in cancer, and has enhanced my skills in sample processing, protocol development, and collaboration with multidisciplinary research teams.
+
+I have a strong interest in infectious diseases and HIV research, with a focus on understanding disease mechanisms and improving data-driven insights in healthcare. My passion lies in applying analytical and laboratory techniques to advance research in biomedical sciences and public health.
+
+Beyond my research work, I am committed to continuous learning and innovation, always seeking ways to refine methodologies and contribute to meaningful advancements in science and medicine.
+
+
+

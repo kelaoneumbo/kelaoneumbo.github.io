@@ -1,0 +1,28 @@
+---
+title: "Research Focus"
+---
+My research focuses on the intersection of cancer metabolism, hematologic malignancies, and biobanking. I have experience working with biospecimen repositories, mass spectrometry-based metabolomics, and translational research. My work aims to support precision medicine by ensuring high-quality biospecimen processing and optimizing analytical techniques for studying metabolic pathways in disease states.
+
+#### Most Recent Projects
+##### Hematopoietic Biorepository & Cellular Therapy Core
+At the Case Comprehensive Cancer Center, I oversee the processing, storage, and distribution of human biospecimens to support clinical and translational research. My role involves:
+
+- Biobanking & Sample Management: Ensuring proper handling and long-term storage of plasma, CSF, and tissue samples.
+- Protocol Optimization: Developing standardized protocols for cryopreservation and nucleic acid extraction.
+- Clinical Research Support: Collaborating with investigators to provide high-quality biospecimens for cancer and hematologic disease studies.
+
+##### Cancer Metabolism & Analytical Techniques
+Previously, I managed the Cancer Metabolism Shared Resource Core, where I specialized in:
+
+- Metabolomics & Proteomics Analysis: Using LC-MS and GC-MS to study metabolic pathways.
+- Instrumentation Troubleshooting: Maintaining and optimizing mass spectrometry workflows.
+- Method Development: Refining isotopic labeling techniques to enhance metabolite detection.
+
+
+#### Past Research
+- COVID-19 Health Disparities & Risk Communication (Mayo Clinic): Investigated inequities in vaccine access and public health messaging.
+- Microbial Pathogenesis & Biochemistry: Assisted in microbiology research and teaching laboratory techniques.
+
+#### Future Directions
+I am particularly interested in studying HIV latency, viral reservoirs, and host metabolic responses in people living with HIV (PLWH). My goal is to contribute to the development of novel biomarkers for latency reversal strategies, therapeutic targeting of viral reservoirs, and improved diagnostics for persistent infections. I aim to integrate biobanking, metabolomics, and systems biology approaches to uncover new insights into HIV persistence and eradication strategies, bridging laboratory research with clinical applications.
+

@@ -1,0 +1,44 @@
+---
+title: Publications
+---
+### Peer-Reviewed Publications
+
+#### Metabolomics Research
+
+##### Abstract (Wang et al. 2024)
+TIFAB is a protein that affects NF-κB signaling and plays a key role in leukemia. In this study, we found that removing Tifab from KMT2A::MLLT3-driven acute myeloid leukemia (AML) cells decreases leukemia stem cell activity, glucose use, and mitochondrial function. Gene analysis showed that Tifab loss lowers MYC, HOXA9/MEIS1, and key metabolic pathways. We also identified HNF4A as an important target of TIFAB, regulated through NF-κB. Restoring HNF4A helps leukemia cells grow better, while blocking it reduces TIFAB’s effects. This study highlights the TIFAB-HNF4A relationship as a critical factor in leukemia progression and offers new insights into AML biology.
+
+##### Citation
+Wang, Y., Xiu, Y., Dong, Q., Zhao, J., Neumbo, K., Miyagi, M., Borcherding, N., Fu, L., De Celis, H. R., Pintozzi, N. G., Starczynowski, D. T., & Zhao, C. (2024). TIFAB modulates metabolic pathways in KMT2A::MLLT3-Induced AML through HNF4A. Blood Advances. <DOI:10.1182/bloodadvances.2024013446>
+
+##### Abstract (Miyagi et al. 2024)
+Isoaspartic acid (isoAsp) is a common protein modification that occurs naturally from asparagine or aspartic acid and is linked to several diseases. However, current methods for detecting isoAsp sites in proteins are unclear and not widely used. We developed a new method that labels isoAsp with deuterium. This method takes advantage of isoAsp's unique structure, allowing it to form an oxazolone ring that incorporates deuterium from D2O. By comparing the masses of peptides from reactions in H2O and D2O, we can pinpoint the exact locations of isoAsp in proteins. We tested this method on model proteins like lysozyme and rituximab, showing it works effectively. Additionally, our method also labels isoglutamic acid (isoGlu), a protein modification with no reliable detection methods so far.
+
+##### Citation
+Miyagi, M., Kiesel, E., Neumbo, K., Nakazawa, T. (2024). Deuterium labeling of isoaspartic and isoglutamic acids for mass spectrometry analysis. Analytical Chemistry, 96(7), 3077–3086. <DOI:10.1021/acs.analchem.3c05194>
+
+----
+
+#### Public Health & COVID-19 Research
+
+##### Abstract (Lohr and Neumbo et. al. 2023)
+Im/migrants face unique challenges related to COVID-19, including a lack of reliable information. The Rochester Healthy Community Partnership (RHCP) responded by forming a COVID-19 Task Force and adapting the CDC’s Crisis and Emergency Risk Communication (CERC) framework to address these disparities. The CERC intervention involved communication leaders sharing health messages with their social networks and conveying their concerns to regional leaders. This approach continued to promote vaccination equity once vaccines became available. A survey of 37 participants showed that most found the intervention helpful and felt more motivated to get vaccinated. RHCP administered 1,158 vaccines through community-based clinics, demonstrating the effectiveness of such initiatives in reaching im/migrant communities during a pandemic.
+
+##### Citation
+Lohr, A.M., Neumbo, K.C., et al. (2023). Addressing COVID-19 inequities using bidirectional crisis and emergency risk communication and vaccine clinic interventions: a descriptive study. BMC Public Health, 23(1). <DOI:10.1186/s12889-023-16410-3>
+
+
+----
+
+### Ongoing Research
+
+#### HIV-Related Hospitalizations and Opportunistic Infections in Maryland 
+*(Manuscript in Preparation)*
+
+This study utilizes AHRQ’s 2017 Maryland Statewide Inpatient Database (SID) to examine the prevalence, risk factors, and socioeconomic disparities associated with opportunistic infections (OIs) among people with HIV (PWH). Key areas of focus include:
+
+- Comparing demographics, comorbidities, and hospital outcomes between PWH with and without OIs.
+- Investigating the role of socioeconomic factors, such as income, insurance status, and housing instability, in OI prevalence.
+- Identifying potential disparities in healthcare access and hospitalization patterns.
+
+This work aims to provide actionable insights for public health interventions and healthcare resource allocation for HIV-related hospitalizations.
